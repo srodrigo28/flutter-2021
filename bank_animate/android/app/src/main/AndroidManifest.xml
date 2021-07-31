@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.layout">
+    package="com.example.bank_animate">
    <application
-        android:label="layout"
+        android:label="bank_animate"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

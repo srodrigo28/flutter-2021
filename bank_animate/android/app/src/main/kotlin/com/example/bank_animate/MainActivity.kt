@@ -1,4 +1,4 @@
-package com.example.layout
+package com.example.bank_animate
 
 import io.flutter.embedding.android.FlutterActivity
 
